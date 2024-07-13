@@ -7,7 +7,12 @@ This is a React app for:
   - Inspecting and editing the properties of the described hardware components
   - Exporting to C++ code using SimGrid's platform description API
 
-Below is the "standard" README content for any React application
+```bash
+npm install
+npm start
+```
+
+Below is all the "standard" README content for any React application
 
 ---
 
